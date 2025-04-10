@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Bajaj Service Center Thiruvananthapuram",
+    "address": "MG Road, Thiruvananthapuram, Kerala",
+    "contact": "9876543210",
+    "status": "Open",
+    "closingTime": "7:00 PM",
+    "services": ["Engine Service", "Oil Change", "Tire Replacement"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.9411, 8.5241]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Kollam",
+    "address": "Chinnakada, Kollam, Kerala",
+    "contact": "9876543211",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Battery Replacement", "Brake Check"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.5950, 8.8932]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Pathanamthitta",
+    "address": "Ring Road, Pathanamthitta, Kerala",
+    "contact": "9876543212",
+    "status": "Temporarily Closed",
+    "closingTime": "7:30 PM",
+    "services": ["General Service", "Clutch Repair"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.7872, 9.2648]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Alappuzha",
+    "address": "Vellakinar Junction, Alappuzha, Kerala",
+    "contact": "9876543213",
+    "status": "Open",
+    "closingTime": "8:00 PM",
+    "services": ["Electrical Repair", "Suspension Service"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.3388, 9.4981]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Kottayam",
+    "address": "Kodimatha, Kottayam, Kerala",
+    "contact": "9876543214",
+    "status": "Open",
+    "closingTime": "7:00 PM",
+    "services": ["Wheel Alignment", "Emission Test"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.5200, 9.5916]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Idukki",
+    "address": "Cheruthoni, Idukki, Kerala",
+    "contact": "9876543215",
+    "status": "Temporarily Closed",
+    "closingTime": "6:30 PM",
+    "services": ["Engine Tuning", "Oil Filter Replacement"],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1025, 9.8490]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Ernakulam",
+    "address": "Edappally, Ernakulam, Kerala",
+    "contact": "9876543216",
+    "status": "Open",
+    "closingTime": "8:00 PM",
+    "services": ["Full Service", "Transmission Repair"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.2673, 9.9816]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Thrissur",
+    "address": "Sakthan Thampuran Nagar, Thrissur, Kerala",
+    "contact": "9876543217",
+    "status": "Open",
+    "closingTime": "7:30 PM",
+    "services": ["Brake Service", "Steering Repair"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.2144, 10.5276]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Palakkad",
+    "address": "Fort Maidan, Palakkad, Kerala",
+    "contact": "9876543218",
+    "status": "Open",
+    "closingTime": "7:00 PM",
+    "services": ["Fuel System Repair", "Cooling System Repair"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.6548, 10.7867]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Malappuram",
+    "address": "Kottakkal, Malappuram, Kerala",
+    "contact": "9876543219",
+    "status": "Open",
+    "closingTime": "7:00 PM",
+    "services": ["Engine Service", "Transmission Fluid Change"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.0022, 11.0490]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Kozhikode",
+    "address": "Mavoor Road, Kozhikode, Kerala",
+    "contact": "9876543220",
+    "status": "Open",
+    "closingTime": "7:30 PM",
+    "services": ["Oil Change", "Brake Inspection"],
+    "location": {
+      "type": "Point",
+      "coordinates": [75.7754, 11.2588]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Wayanad",
+    "address": "Kalpetta, Wayanad, Kerala",
+    "contact": "9876543221",
+    "status": "Temporarily Closed",
+    "closingTime": "6:00 PM",
+    "services": ["Suspension Repair", "Tire Replacement"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.1320, 11.6101]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Kannur",
+    "address": "Thalassery Road, Kannur, Kerala",
+    "contact": "9876543222",
+    "status": "Open",
+    "closingTime": "7:00 PM",
+    "services": ["Electrical System Repair", "Exhaust System Service"],
+    "location": {
+      "type": "Point",
+      "coordinates": [75.3551, 11.8745]
+    }
+  },
+  {
+    "name": "Bajaj Service Center Kasaragod",
+    "address": "Vidyanagar, Kasaragod, Kerala",
+    "contact": "9876543223",
+    "status": "Open",
+    "closingTime": "6:30 PM",
+    "services": ["Fuel Injection Cleaning", "AC System Repair"],
+    "location": {
+      "type": "Point",
+      "coordinates": [75.0020, 12.5000]
+    }
+  }
+]

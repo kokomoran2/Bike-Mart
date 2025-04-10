@@ -1,0 +1,63 @@
+/* Paylater.css */
+.paylater-container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, rgb(5, 12, 82), #1e1e1e, rgb(11, 4, 64));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .paylater-card {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+  }
+  
+  .paylater-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: yellow;
+  }
+  
+  .form-group {
+    margin: 15px 0;
+  }
+  
+  .form-group input,
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background: #333;
+    color: white;
+  }
+  
+  .emi-info {
+    margin-top: 20px;
+    background: #444;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .pay-button {
+    width: 100%;
+    background: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .pay-button:hover {
+    background: gold;
+  }
+  

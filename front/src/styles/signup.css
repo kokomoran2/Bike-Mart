@@ -1,0 +1,97 @@
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+}
+
+.glass-form {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 450px;
+}
+
+.glass-form h2 {
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.form-group label {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    padding: 14px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 12px;
+    width: 100%;
+}
+
+.register-btn {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px;
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    margin-top: 10px;
+    background: linear-gradient(45deg, #28a745, #218838);
+    color: white;
+    box-shadow: 0px 6px 15px rgba(40, 167, 69, 0.5);
+}
+
+.register-btn:hover {
+    background: linear-gradient(45deg, #218838, #1e7e34);
+    transform: scale(1.05);
+}
+
+/* Login Redirect */
+.login-link {
+    margin-top: 15px;
+    color: white;
+    font-size: 16px;
+}
+
+.login-link a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}
+
+/* Message Styling */
+.message {
+    color: #ffcc00;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Optional Fields */
+.optional-header {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: left;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Deedi Automobiles",
+    "address": "Thennoorkonam, Kotapuram, Neyyatinkara, Thiruvananthapuram, Kerala, 695521",
+    "contact": "+91 93878 30046",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["General Service", "Engine Repair", "Oil Change"],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.0822, 8.3985]
+    }
+  },
+  {
+    "name": "Gilayad Motors",
+    "address": "Moriah Building, Udiyankulangara, Thiruvananthapuram, Kerala, 695122",
+    "contact": "+91 99950 60120",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Brake Service", "Battery Replacement", "Tyre Change"],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1256, 8.3746]
+    }
+  },
+  {
+    "name": "Jeem Automobiles",
+    "address": "Valicode, Nedumangad PO, Thiruvananthapuram, Kerala, 695541",
+    "contact": "+91 98470 12345",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Suspension Check", "Clutch Adjustment", "Chain Lubrication"],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.0014, 8.6024]
+    }
+  },
+  {
+    "name": "Mass Motors",
+    "address": "Loyola Road, Sreekariyam, Thiruvananthapuram, Kerala, 695017",
+    "contact": "+91 81234 56789",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Wheel Alignment", "Brake Service", "Battery Replacement"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.9366, 8.5455]
+    }
+  },
+  {
+    "name": "Sivasakthi Automobiles",
+    "address": "KSRTC Depot Junction, Karumkutty, Parassala Road, Parassala, Thiruvananthapuram, Kerala, 695502",
+    "contact": "+91 98765 43210",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Oil Change", "Brake Inspection", "Engine Tune-up"],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.0710, 8.3247]
+    }
+  },
+  {
+    "name": "Kalady Motors",
+    "address": "Mattoor Junction, Angamaly Road, Kalady, Ernakulam, Kerala, 683574",
+    "contact": "+91 97457 62888",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["General Service", "Tyre Change", "Chain Lubrication"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.4090, 10.1551]
+    }
+  },
+  {
+    "name": "Popular Motor Corporation",
+    "address": "146/A, N.F. Gate, Tripunithura, Kochi, Kerala, 682301",
+    "contact": "+91 98957 90689",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Suspension Check", "Clutch Adjustment", "Battery Replacement"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.3530, 9.9498]
+    }
+  },
+  {
+    "name": "Popular Motor Corporation",
+    "address": "246 B1, 246 B2, Deora Complex, Near Catholic Church, Medical Junction, Ernakulam, Kerala, 682024",
+    "contact": "+91 98470 12345",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Engine Oil Replacement", "Brake Service", "Wheel Balancing"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.2999, 9.9816]
+    }
+  },
+  {
+    "name": "Four Square Motors",
+    "address": "Republic Road, Cherai P.O., Opposite Vyaparabhavan, Cherai, Paravoor, Ernakulam, Kerala, 683514",
+    "contact": "+91 98470 12345",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["General Service", "Engine Repair", "Oil Change"],
+    "location": {
+      "type": "Point",
+      "coordinates": [76.2352, 10.1426]
+    }
+  },
+  {
+    "name": "Best Auto Care",
+    "address": "Bhavani Building, Near New Bus Stand, Kunnamangalam (Po), Kozhikode, Kerala, 673571",
+    "contact": "+91 94951 43929",
+    "status": "Open",
+    "closingTime": "6:00 PM",
+    "services": ["Brake Service", "Battery Replacement", "Tyre Change"],
+    "location": {
+      "type": "Point",
+      "coordinates": [75.8770, 11.3046]
+    }
+  }
+]
