@@ -43,7 +43,7 @@ npm install
 
 # Run backend (from backend folder)
 cd backend
-npm install
+node server
 npm start
 
 # Run frontend (from frontend folder)
